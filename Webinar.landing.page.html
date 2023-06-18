@@ -75,7 +75,7 @@
   <div class="container">
     <h1>Discover the Future of AI-Powered Startups</h1>
     <p>Join our exclusive webinar for AI enthusiasts and AI-driven founders on 20th June 2023 at 5 pm Riyadh time.</p>
-    <p>In this educational webinar, you will:</p>
+    <p>In this insightful  webinar, you will:</p>
     <ol>
       <li>Explore the benefits of adopting AI in your startup.</li>
       <li>Gain insights into accessing cutting-edge AI technologies for success.</li>
