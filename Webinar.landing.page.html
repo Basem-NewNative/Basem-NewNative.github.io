@@ -8,7 +8,7 @@
       font-family: 'Raleway', sans-serif;
       line-height: 1.6;
       margin: 0;
-      background-image: url('https://cdn.discordapp.com/attachments/1113041676403998801/1120093043907903519/New_Native_futuristic_digital_brain_inside_a_middle_east_metrop_e216cd41-4d9a-4b6a-9947-71aff32e5528-transformed.jpeg');
+      background-image: url('https://cdn.discordapp.com/attachments/1113041676403998801/1120098316265455757/webinar.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
