@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -86,7 +85,6 @@
     <a href="https://forms.monday.com/forms/921233bb504c3edd746d29b5109e1fea?r=use1" class="btn">Register for Webinar</a>
     <a href="https://gaia.newnative.ai/" class="btn" target="_blank">Visit GAIA's Website</a>
       
-    </form>
   </div>
 </body>
 </html>
