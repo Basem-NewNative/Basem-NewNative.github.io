@@ -13,6 +13,9 @@
       background-repeat: no-repeat;
       background-position: center;
     }
+    body::before {
+      display: none;
+    }
     h1, h2, p {
       margin-bottom: 15px;
     }
@@ -75,16 +78,15 @@
   <div class="container">
     <h1>Discover the Future of AI-Powered Startups</h1>
     <p>Join our exclusive webinar for AI enthusiasts and AI-driven founders on 20th June 2023 at 5 pm Riyadh time.</p>
-    <p>In this educational webinar, you will:</p>
+    <p>In this educational webinar, you'll:</p>
     <ol>
       <li>Explore the benefits of adopting AI in your startup.</li>
       <li>Gain insights into accessing cutting-edge AI technologies for success.</li>
       <li>Learn how GAIA Accelerator supports AI-focused startups.</li>
       <li>Enhance your startup's AI-powered innovation.</li>
     </ol>
-    <a href="https://forms.monday.com/forms/921233bb504c3edd746d29b5109e1fea?r=use1" class="btn">Register for Webinar</a>
+    <a href="https://forms.monday.com/forms/921233bb504c3edd746d29b5109e1fea?r=use1" class="btn" target="_blank">Register for Webinar</a>
     <a href="https://gaia.newnative.ai/" class="btn" target="_blank">Visit GAIA's Website</a>
-      
   </div>
 </body>
 </html>
