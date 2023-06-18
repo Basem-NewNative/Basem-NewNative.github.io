@@ -8,11 +8,15 @@
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
             margin: 0;
-            padding: 15px;
-            background-image: url('https://cdn.discordapp.com/attachments/1113041676403998801/1120098316265455757/webinar.jpg');
+            padding: 0;
+            background-image: url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1650&q=80');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
+            display: flex;
+            height: 100vh;
+            align-items: center;
+            justify-content: center;
         }
 
         h1, h2, p {
@@ -20,7 +24,8 @@
         }
 
         .container {
-            max-width: 100%;
+            width: 100%;
+            max-width: 700px;
             padding: 30px;
             background-color: rgba(240, 249, 255, 0.9);
             box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.2);
@@ -65,7 +70,7 @@
     <h1>Discover the Future of AI-Powered Startups</h1>
     <p>Join our exclusive webinar for AI enthusiasts and AI-driven founders.</p>
     <div class="date-time">
-        20th June 2023 at 5 pm Riyadh time
+        20th of June 2023, 5:00 PM Saudi Arabia Time (GMT +3)
     </div>
     <p>In this insightful webinar, you will:</p>
     <ol>
