@@ -9,7 +9,7 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            background-image: url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1650&q=80');
+            background-image: url('https://cdn.discordapp.com/attachments/1113041676403998801/1120098316265455757/webinar.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
