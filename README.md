@@ -44,7 +44,7 @@
             color: #fff;
             text-decoration: none;
             padding: 10px 20px;
-            margin-top: 20px;
+            margin: 20px 10px 0;
             border-radius: 5px;
             transition: background-color 0.2s;
             font-weight: 700;
@@ -52,6 +52,10 @@
 
         .btn:hover {
             background-color: #072a5d;
+        }
+
+        .button-container {
+            text-align: center;
         }
     </style>
     <title>Webinar Registration</title>
@@ -70,9 +74,11 @@
         <li>Learn how GAIA Accelerator supports AI-focused startups.</li>
         <li>Enhance your startup's AI-powered innovation.</li>
     </ol>
-    <a href="https://forms.monday.com/forms/921233bb504c3edd746d29b5109e1fea?r=use1" class="btn"
-       target="_blank">Register for Webinar</a>
-    <a href="https://gaia.newnative.ai/" class="btn" target="_blank">Visit GAIA's Website</a>
+    <div class="button-container">
+        <a href="https://forms.monday.com/forms/921233bb504c3edd746d29b5109e1fea?r=use1" class="btn"
+           target="_blank">Register for Webinar</a>
+        <a href="https://gaia.newnative.ai/" class="btn" target="_blank">Visit GAIA's Website</a>
+    </div>
 </div>
 <script>
     window.onload = function () {
