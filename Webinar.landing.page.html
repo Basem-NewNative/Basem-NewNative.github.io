@@ -2,10 +2,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Raleway', sans-serif;
+            font-family: 'Roboto', sans-serif;
             line-height: 1.6;
             margin: 0;
             background-image: url('https://cdn.discordapp.com/attachments/1113041676403998801/1120098316265455757/webinar.jpg');
@@ -30,11 +30,12 @@
         .date-time {
             background-color: #2c3e50;
             color: #fff;
-            padding: 10px;
+            padding: 7px;
             margin-bottom: 15px;
             text-align: center;
             border-radius: 5px;
-            font-weight: 700;
+            font-weight: 500;
+            font-size: 14px;
         }
 
         .btn {
@@ -42,7 +43,7 @@
             background-color: #2c3e50;
             color: #fff;
             text-decoration: none;
-            padding: 12px 25px;
+            padding: 10px 20px;
             margin-top: 20px;
             border-radius: 5px;
             transition: background-color 0.2s;
@@ -60,8 +61,7 @@
     <h1>Discover the Future of AI-Powered Startups</h1>
     <p>Join our exclusive webinar for AI enthusiasts and AI-driven founders.</p>
     <div class="date-time">
-        <h2>Date & Time</h2>
-        <p>20th June 2023 at 5 pm Riyadh time</p>
+        20th June 2023 at 5 pm Riyadh time
     </div>
     <p>In this insightful webinar, you will:</p>
     <ol>
