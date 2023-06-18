@@ -83,21 +83,9 @@
       <li>Learn how GAIA Accelerator supports AI-focused startups.</li>
       <li>Enhance your startup's AI-powered innovation.</li>
     </ol>
-    <a href="#registration-form" class="btn">Register for Webinar</a>
+    <a href="https://forms.monday.com/forms/921233bb504c3edd746d29b5109e1fea?r=use1" class="btn">Register for Webinar</a>
     <a href="https://gaia.newnative.ai/" class="btn" target="_blank">Visit GAIA's Website</a>
-
-    <h2 id="registration-form">Webinar Registration</h2>
-    <form action="submit_registration.php" method="post">
-      <label for="name">Full Name</label>
-      <input type="text" name="name" id="name" required>
-
-      <label for="startup_name">Startup Name</label>
-      <input type="text" name="startup_name" id="startup_name" required>
-
-      <label for="email">Contact Email</label>
-      <input type="email" name="email" id="email" required>
-
-      <input type="submit" value="Register">
+      
     </form>
   </div>
 </body>
