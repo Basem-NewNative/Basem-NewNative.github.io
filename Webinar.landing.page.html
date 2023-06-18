@@ -8,6 +8,7 @@
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
             margin: 0;
+            padding: 15px;
             background-image: url('https://cdn.discordapp.com/attachments/1113041676403998801/1120098316265455757/webinar.jpg');
             background-size: cover;
             background-repeat: no-repeat;
@@ -19,16 +20,15 @@
         }
 
         .container {
-            max-width: 700px;
-            margin: 50px auto;
+            max-width: 100%;
             padding: 30px;
-            background-color: rgba(255, 255, 255, 0.9);
+            background-color: rgba(240, 249, 255, 0.9);
             box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.2);
             border-radius: 5px;
         }
 
         .date-time {
-            background-color: #2c3e50;
+            background-color: #0b3d91;
             color: #fff;
             padding: 7px;
             margin-bottom: 15px;
@@ -40,7 +40,7 @@
 
         .btn {
             display: inline-block;
-            background-color: #2c3e50;
+            background-color: #0b3d91;
             color: #fff;
             text-decoration: none;
             padding: 10px 20px;
@@ -51,7 +51,7 @@
         }
 
         .btn:hover {
-            background-color: #1a252d;
+            background-color: #072a5d;
         }
     </style>
     <title>Webinar Registration</title>
