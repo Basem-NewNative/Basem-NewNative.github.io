@@ -70,7 +70,7 @@
     <h1>Discover the Future of AI-Powered Startups</h1>
     <p>Join our exclusive webinar for AI enthusiasts and AI-driven founders.</p>
     <div class="date-time">
-        20th of June 2023, 5:00 PM Saudi Arabia Time (GMT +3)
+        21th of June 2023, 1:30 PM Saudi Arabia Time (GMT +3)
     </div>
     <p>In this insightful webinar, you will:</p>
     <ol>
